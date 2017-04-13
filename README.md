@@ -1,7 +1,7 @@
 [![Latest Stable Version](https://poser.pugx.org/lezhnev74/dummy-config-loader/v/stable)](https://packagist.org/packages/lezhnev74/dummy-config-loader)
 [![Build Status](https://travis-ci.org/lezhnev74/dummy-config-loader.svg?branch=master)](https://travis-ci.org/lezhnev74/dummy-config-loader)
-[![License](https://poser.pugx.org/lezhnev74/dummy-config-loader/license)](https://packagist.org/packages/lezhnev74/simple-downloader)
-[![Total Downloads](https://poser.pugx.org/lezhnev74/dummy-config-loader/downloads)](https://packagist.org/packages/lezhnev74/simple-downloader)
+[![License](https://poser.pugx.org/lezhnev74/dummy-config-loader/license)](https://packagist.org/packages/lezhnev74/dummy-config-loader)
+[![Total Downloads](https://poser.pugx.org/lezhnev74/dummy-config-loader/downloads)](https://packagist.org/packages/lezhnev74/dummy-config-loader)
 
 # Usage
 
