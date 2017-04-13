@@ -1,5 +1,5 @@
 [![Latest Stable Version](https://poser.pugx.org/lezhnev74/dummy-config-loader/v/stable)](https://packagist.org/packages/lezhnev74/dummy-config-loader)
-[![Build Status](https://travis-ci.org/lezhnev74/DummyConfigLoader.svg?branch=master)](https://travis-ci.org/lezhnev74/SimpleDownloader)
+[![Build Status](https://travis-ci.org/lezhnev74/dummy-config-loader.svg?branch=master)](https://travis-ci.org/lezhnev74/dummy-config-loader)
 [![License](https://poser.pugx.org/lezhnev74/dummy-config-loader/license)](https://packagist.org/packages/lezhnev74/simple-downloader)
 [![Total Downloads](https://poser.pugx.org/lezhnev74/dummy-config-loader/downloads)](https://packagist.org/packages/lezhnev74/simple-downloader)
 
@@ -30,7 +30,9 @@ First section of any key addresses the file within the directory. One level of r
 composer require lezhnev74/dummy-config-loader
 ```
 
+## Support 
 
+If you need help - feel comfortable to ping me at lezhnev.work@gmail.com
 
 
 
