@@ -1,0 +1,29 @@
+{
+    "name": "lezhnev74/dummy-config-loader",
+    "description": "This file allows me to lazy load config files and access entries with dot syntax: `database.default.driver`",
+    "type": "package",
+    "license": "MIT",
+    "tags": [
+        "config",
+        "loader",
+        "lazy"
+    ],
+    "authors": [
+        {
+            "name": "Dmitriy Lezhnev",
+            "email": "lezhnev.work@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "DummyConfigLoader\\": "src/"
+        }
+    }
+}
