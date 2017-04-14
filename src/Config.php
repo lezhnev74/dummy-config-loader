@@ -13,6 +13,8 @@ final class Config
      * Config constructor.
      *
      * @param string $context_directory
+     *
+     * @throws \Exception
      */
     public function __construct($context_directory)
     {
@@ -35,7 +37,9 @@ final class Config
      * @param string $key
      * @param null   $default
      *
-     * @return void
+     * @throws \Exception
+     *
+     * @return mixed|null
      */
     public function get(string $key, $default = null)
     {
@@ -71,6 +75,8 @@ final class Config
      *
      * @param $context
      * @param $pieces
+     *
+     * @throws \Exception
      *
      * @return mixed|null
      */
